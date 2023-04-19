@@ -9,7 +9,11 @@
 - 采用企业微信接口，安全可靠，保证你的信息安全。
 - 简单易用，只需几步就可轻松实现群发功能。
 
-## 快速开始
+## 截图
+
+<img src="https://raw.githubusercontent.com/wowqaqtat/Group-chat-robot/main/doc/11.png" height="200px"> <img src="https://raw.githubusercontent.com/wowqaqtat/Group-chat-robot/main/doc/12.png" height="200px"> <img src="https://raw.githubusercontent.com/wowqaqtat/Group-chat-robot/main/doc/13.png" height="200px">
+
+# 快速开始
 
 0. 前置条件：在企业微信中创建内部群，并保存群机器人的webhook地址。
 1. 克隆或下载本项目至本地，并安装  Python 相关依赖。
